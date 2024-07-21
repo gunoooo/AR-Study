@@ -1,0 +1,62 @@
+[
+  {
+    "libraryIdentifier" : "7bfba106f53b47cd4a7fad7a6f80717e",
+    "displayName" : "RWTeamCard.png",
+    "format" : "image"
+  },
+  {
+    "displayName" : "IMG_8280.jpeg",
+    "libraryIdentifier" : "5a26c9439d8f14521993eaaea80bc056",
+    "format" : "image"
+  },
+  {
+    "format" : "image",
+    "displayName" : "black_background_9x5.png",
+    "libraryIdentifier" : "b26e23c2b61e6a97171f9a669b3de480"
+  },
+  {
+    "libraryIdentifier" : "b503d70d3f39d05584071d9b1b4f9bef",
+    "displayName" : "AuthorButton.png",
+    "format" : "image"
+  },
+  {
+    "libraryIdentifier" : "9aa2b8c716e093d8daf855bd4bc7a08e",
+    "format" : "image",
+    "displayName" : "AuthorPage1.png"
+  },
+  {
+    "displayName" : "AuthorPage2.png",
+    "format" : "image",
+    "libraryIdentifier" : "8b17d2b26fb09a1f28f598717bcdf823"
+  },
+  {
+    "format" : "image",
+    "displayName" : "BioButton.png",
+    "libraryIdentifier" : "de097b4ee4cf33f07d6ee057a2d4dbfd"
+  },
+  {
+    "format" : "image",
+    "libraryIdentifier" : "02cb5f8196e927dbe48019b172fe271a",
+    "displayName" : "BioPage1.png"
+  },
+  {
+    "libraryIdentifier" : "47d4dc7b0935fccef05e6e083d9c0f53",
+    "displayName" : "ContactButton.png",
+    "format" : "image"
+  },
+  {
+    "format" : "image",
+    "displayName" : "ContactPage1.png",
+    "libraryIdentifier" : "5b1f5d136c0cc1177a9204d3f527a6de"
+  },
+  {
+    "format" : "image",
+    "displayName" : "PhotoA.png",
+    "libraryIdentifier" : "dcbe44c4599bd68059f00dd3ef16928d"
+  },
+  {
+    "displayName" : "PhotoB.png",
+    "libraryIdentifier" : "4b0daa20dedd9e98a29ad77e4d3ea722",
+    "format" : "image"
+  }
+]
